@@ -57,7 +57,7 @@
 ---
 
 <h2 align="center">🔥🔥 Power Quote🔥🔥</h2>
-<p align="center" style="font-weight: bold; font-size: 18px; color: #ff4500; background: black; padding: 10px; border-radius: 10px;">“Make every day the Best!” – PUBG</p>
+<p align="center" style="font-weight: bold; font-size: 18px; color: #ff4500; background: black; padding: 10px; border-radius: 10px;">“Make every day the Best!” </p>
 
 <div align="center">
   <!-- Updated GIF Image -->
