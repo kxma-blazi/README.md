@@ -42,3 +42,21 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/kxma-blazi/count.svg" alt="Profile Counter" />
 </div>
+
+---
+
+<div align="center">
+  <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/578080/header.jpg" width="300" alt="PUBG Banner" />
+</div>
+
+---
+
+<h2 align="center">🔥🔥 Power Quote🔥🔥</h2>
+<p align="center" style="font-weight: bold; font-size: 18px; color: #ff4500; background: black; padding: 10px; border-radius: 10px;">“Make every day the Best!” – PUBG</p>
+
+<div align="center">
+  <!-- Updated GIF Image -->
+  <div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXV2amFpeXh1cXBhbDV0cjBtN3h1eWUweGJlc3p3ZzNuZTF3ZWh2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8wnNuCuDg4FqO6Ib30/giphy.gif" width="300" alt="PUBG Victory GIF" />
+</div>
+
