@@ -35,7 +35,12 @@
   <a href="https://discord.com/sxhxrxt_03" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white&style=for-the-badge" height="35" />
   </a>
+  <!-- Steam Profile Link -->
+  <a href="https://steamcommunity.com/profiles/76561199057063868/" target="_blank">
+    <img src="https://img.shields.io/badge/Steam-000000?logo=steam&logoColor=white&style=for-the-badge" height="35" />
+  </a>
 </div>
+
 
 ---
 
