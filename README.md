@@ -61,7 +61,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/kxma-blazi/kxma-blazi/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
@@ -86,12 +86,3 @@
   </a>
 </div>
 
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31psaxhwgyjbeyouznhb5r2m6mla">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31psaxhwgyjbeyouznhb5r2m6mla&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
